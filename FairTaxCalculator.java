@@ -12,7 +12,7 @@ public class FairTaxCalculator {
         
 
         
-        double totalExpenses = housing /* + other categories... */;
+        double totalExpenses = housing;
 
         
         double fairTaxRate = 0.23;
